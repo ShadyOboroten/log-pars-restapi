@@ -14,5 +14,6 @@ git clone -b main git@github.com@ShadyOboroten/Pract
 
 ## Запустить docker:
 
-cd "Директория куда установлен репозиторий"
-docker compose up -d
+1. cd "Директория куда установлен репозиторий"
+
+2. docker compose up -d
